@@ -5,7 +5,11 @@
 프로젝트 설명은 나중에 써볼게요 ~
 
 ## Commit Message 규칙
-> &lt;type&gt;: &lt;subject&gt;<br>
+> type: Subject -> 제목  
+(한칸 띄우기)  
+body(생략 가능) -> 본문  
+(한칸 띄우기)  
+footer(생략 가능) -> 꼬리말  
 > ex) feat: Add login api
 
 ### Type<br>
@@ -19,6 +23,8 @@
 - refactor : 기능의 변화가 아닌 코드 리팩터링 ex) 변수 이름 변경
 - test : 테스트 코드 추가/수정
 - release : 버전 릴리즈 관리
+
+참고자료 : https://kdjun97.github.io/git-github/commit-convention/
 
 ## 이슈 생성
 - BUG Report: 버그 이슈 템플릿 사용하여 작성
