@@ -9,8 +9,9 @@
 (한칸 띄우기)  
 body(생략 가능) -> 본문  
 (한칸 띄우기)  
-footer(생략 가능) -> 꼬리말  
-> ex) feat: Add login api
+footer(생략 가능) -> 꼬리말
+
+** ex) feat: Add login api **
 
 ### Type<br>
 - **feat** : 새로운 기능 추가, 기존의 기능을 요구 사항에 맞추어 수정
